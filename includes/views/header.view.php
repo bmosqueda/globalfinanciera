@@ -49,9 +49,9 @@
     </style>
     <title><?php echo $title; ?></title>
   </head>
-  <body>
+  <body class="is-bold is-light">
     <!-- NavBar -->
-      <nav class="navbar is-white is-spaced">
+      <nav class="navbar <?php echo $navbarColor; ?> is-spaced">
         <div class="navbar-brand">
           <a class="navbar-item" href="#">
             <img src="public/images/Logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="2000">
@@ -82,7 +82,7 @@
             <a class="navbar-item has-text-link" href="#">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item is-5 has-text-link" href="#">
+            <a class="navbar-item has-text-link" href="#">
               Contacto
             </a>
           </div>
