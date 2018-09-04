@@ -10,11 +10,6 @@
     transition: all .2s ease-in-out;
     width: 100%;
   }
-  @media (max-width: 768px) {
-    .text-mobile {
-      text-align: center;
-    }
-  }
   .is-shady:hover {
     box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
   }
@@ -110,7 +105,7 @@
                   <div class="card-content">
                       <div class="content">
                           <h4>Créditos personales y empresariales</h4>
-                          <p>Prestamos en efectivo, no es determinante buró de crédito</p>
+                          <p>Préstamos en efectivo, no es determinante buró de crédito</p>
                           <!-- <p><a href="#">Learn more</a></p> -->
                       </div>
                   </div>

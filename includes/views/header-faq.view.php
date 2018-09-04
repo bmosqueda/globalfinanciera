@@ -43,7 +43,10 @@
         padding-top: 31.333% !important;
       }
       .has-background-blue {
-        background-color: #00577C;
+        background-color: #006B99;
+      }
+      nav.is-info {
+        background-color: #006B99 !important;
       }
       .footer-title {
         margin-bottom: 20px;
@@ -78,22 +81,22 @@
           <div class="navbar-start">
           </div>
           <div class="navbar-end">
-            <a class="navbar-item  has-text-link" href="./">
+            <a class="navbar-item " href="./">
               Inicio
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item" href="#">
               Nosotros
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item" href="#">
               Servicios
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item" href="#">
               Aviso de privacidad
             </a>
-            <a class="navbar-item has-text-link" href="faq.php">
+            <a class="navbar-item" href="faq.php">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item" href="#">
               Contacto
             </a>
           </div>

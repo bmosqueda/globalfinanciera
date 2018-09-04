@@ -14,16 +14,16 @@
           <div class="column is-2-desktop is-5-tablet is-12-mobile">
             <p class="footer-title  title is-5 has-text-light">Página</p>
             <ul>
-              <li>
+              <li class="pad-bot-li">
                 <a class="has-text-light">Nosotros</a>
               </li>
-              <li>
+              <li class="pad-bot-li">
                 <a class="has-text-light">Servicios</a>
               </li>
-              <li>
+              <li class="pad-bot-li">
                 <a class="has-text-light">Aviso de privacidad</a>
               </li>
-              <li>
+              <li class="pad-bot-li">
                 <a class="has-text-light">Preguntas frecuentes</a>
               </li>
             </ul>
