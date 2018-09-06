@@ -3,8 +3,8 @@
         <div class="columns is-multiline">
           <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 50px;">
             <a class="" href="#">
-              <figure class="image is-3by1">
-                <img src="public/images/Logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="2000">
+              <figure class="image is-5by3">
+                <img src="public/images/Logos/transparent-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="1000">
               </figure>
             </a>
             <p class="has-text-light">

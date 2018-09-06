@@ -27,7 +27,17 @@
 <section class="hero has-background-blue">
   <div class="hero-body">
     <div class="container has-text-white">
-      <p class="is-size-1-desktop is-size-2-tablet is-d-mobile is-pulled-left">Preguntas Frecuentes</p>
+      <div class="columns">
+        <div class="column is-half">
+          <!-- <p class="is-size-1-desktop is-size-2-tablet is-d-mobile is-pulled-left">Preguntas Frecuentes</p> -->
+          <p class="is-size-1 is-pulled-left">Preguntas Frecuentes</p>
+        </div>
+        <div class="column is-half">
+          <figure class="image is-128x128 is-pulled-right text-mobile">
+            <img src="public/images/Logos/transparent-white-ico.png" alt="Sociedad Patrimonial 2018 ©"  width="350" height="2000">
+          </figure>
+        </div>
+      </div>
     </div>
   </div>
 </section>

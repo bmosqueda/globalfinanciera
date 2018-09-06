@@ -3,6 +3,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="public/images/Logos/transparent-ico.png">
+
     <!-- Bulma -->
     <link rel="stylesheet" href="public/css/bulma.min.css">
 
@@ -67,9 +69,6 @@
     <!-- NavBar -->
       <nav class="navbar <?php echo $navbarColor; ?> is-spaced">
         <div class="navbar-brand">
-          <a class="navbar-item" href="./">
-            <img src="public/images/Logo.png" alt="Sociedad Patrimonial 2018 ©" width="200" height="2000">
-          </a>
           <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
             <span></span>
             <span></span>
@@ -79,8 +78,6 @@
 
         <div id="navbarExampleTransparentExample" class="navbar-menu">
           <div class="navbar-start">
-          </div>
-          <div class="navbar-end">
             <a class="navbar-item " href="./">
               Inicio
             </a>
@@ -99,6 +96,8 @@
             <a class="navbar-item" href="#">
               Contacto
             </a>
+          </div>
+          <div class="navbar-end">
           </div>
         </div>
       </nav>
