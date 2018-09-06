@@ -2,3 +2,4 @@ node_modules/
 logs/
 links.txt
 sftp-config.json
+.vscode/
