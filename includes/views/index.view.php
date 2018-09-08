@@ -199,7 +199,7 @@
       </header>
       <section class="modal-card-body">
         <div class="field">
-          <label class="label">Nombre <span class="has-text-danger">*</span></label>
+          <label class="label modal-label">Nombre <span class="has-text-danger">*</span></label>
           <div class="control has-icons-left">
             <input class="input" id="txt-name" type="text" placeholder="Nombre" maxlength="50">
             <span class="icon is-small is-left">
@@ -209,7 +209,7 @@
         </div>
         <p class="help feed is-danger" style="display: none;" id="feed-name"></p>
         <div class="field">
-          <label class="label">Teléfono</label>
+          <label class="label modal-label">Teléfono</label>
           <div class="control has-icons-left">
             <input class="input" type="text" id="txt-phone" maxlength="20" placeholder="Teléfono">
             <span class="icon is-small is-left">
@@ -219,7 +219,7 @@
         </div>
         <p class="help feed is-danger" style="display: none;" id="feed-phone"></p>
         <div class="field">
-          <label class="label">Correo <span class="has-text-danger">*</span></label>
+          <label class="label modal-label">Correo <span class="has-text-danger">*</span></label>
           <div class="control has-icons-left has-icons-right">
             <input class="input" type="email" id="txt-mail" maxlength="50" placeholder="Correo de contacto" value="">
             <span class="icon is-small is-left">
@@ -229,16 +229,15 @@
               <i class="fas fa-exclamation-triangle"></i>
             </span> -->
           </div>
-          <p class="help feed is-danger" style="display: none;" id="feed-mail"></p>
-          <div class="field">
-            <label class="label">Mensaje</label>
-            <div class="control">
-              <textarea id="txt-message" maxlength="300" class="textarea" placeholder="Cualquier cosa que quiera comunicarnos"></textarea>
-            </div>
-          </div>
-          <p class="help feed is-danger" style="display: none;" id="feed-message"></p>
         </div>
-
+        <p class="help feed is-danger" style="display: none;" id="feed-mail"></p>
+        <div class="field">
+          <label class="label modal-label">Mensaje</label>
+          <div class="control">
+            <textarea id="txt-message" maxlength="300" class="textarea" placeholder="Cualquier cosa que quiera comunicarnos"></textarea>
+          </div>
+        </div>
+        <p class="help feed is-danger" style="display: none;" id="feed-message"></p>
       </section>
       <footer class="modal-card-foot">
         <button class="button is-success" id="btnSolicitar">Mandar solicitud</button>
