@@ -3,16 +3,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="public/images/Logos/transparent-ico.png">
+    <link rel="icon" href="/public/images/Logos/transparent-ico.png">
 
     <!-- Bulma -->
-    <link rel="stylesheet" href="public/css/bulma.min.css">
+    <link rel="stylesheet" href="/public/css/bulma.min.css">
 
     <!-- Bulma Carousel -->
-    <link rel="stylesheet" href="public/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="/public/css/bulma-carousel.min.css">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="public/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="/public/fontawesome/css/all.min.css">
 
     <!-- Presonalized classes -->
     <!-- Colores -->

@@ -4,7 +4,7 @@
           <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 50px;">
             <a class="" href="#">
               <figure class="image is-5by3">
-                <img src="public/images/Logos/transparent-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="1000">
+                <img src="/public/images/Logos/transparent-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="1000">
               </figure>
             </a>
             <p class="has-text-light">
@@ -83,9 +83,9 @@
       </footer>
     <!-- Footer Fin --> 
     <!-- Bulma Carousel JS-->
-    <script src="public/js/bulma-carousel.min.js"></script>
+    <script src="/public/js/bulma-carousel.min.js"></script>
     <!-- JQuery-->
-    <script src="public/js/jquery.min.js"></script>
-    <script src="public/js/index.js"></script>
+    <script src="/public/js/jquery.min.js"></script>
+    <script src="/public/js/index.js"></script>
   </body>
 </html>

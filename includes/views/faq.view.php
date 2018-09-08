@@ -69,7 +69,7 @@
         </div>
         <div class="logo column is-half">
           <figure class="image is-128x128 is-pulled-right text-mobile">
-            <img src="public/images/Logos/transparent-white-ico.png" alt="Sociedad Patrimonial 2018 ©" width="350"
+            <img src="/public/images/Logos/transparent-white-ico.png" alt="Sociedad Patrimonial 2018 ©" width="350"
               height="2000">
           </figure>
         </div>

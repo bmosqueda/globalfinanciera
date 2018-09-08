@@ -15,7 +15,8 @@
   }
   html,body {
     background: #EFF3F4;
-    font-family: 'Open Sans', serif;
+    /* font-family: 'Open Sans', serif; */
+    font-family: "Helvetica Neue LT", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
   } 
   .card-image > .fa {
     font-size: 8rem;
@@ -70,7 +71,7 @@
         <div class="title">Préstamos en máximo 72 horas</div>
       </div>
     </div>
-    <div class="carousel-navigation is-centered">
+    <div class="carousel-navigation is-overlay">
       <div class="carousel-nav-left">
         <i class="fa fa-chevron-left" aria-hidden="true"></i>
       </div>

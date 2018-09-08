@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^preguntas-frecuentes/$ faq.php [L,NC]
