@@ -67,33 +67,33 @@
   </head>
   <body class="is-bold is-light">
     <!-- NavBar -->
-      <nav class="navbar <?php echo $navbarColor; ?> is-spaced">
+      <nav class="navbar <?php echo $navbarColor; ?>"><!-- Quite class is-spaced -->
         <div class="navbar-brand">
-          <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+          <div class="navbar-burger burger" data-target="navbar">
             <span></span>
             <span></span>
             <span></span>
           </div>
         </div>
 
-        <div id="navbarExampleTransparentExample" class="navbar-menu">
+        <div id="navbar" class="navbar-menu">
           <div class="navbar-start">
-            <a class="navbar-item " href="./">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="./">
               Inicio
             </a>
-            <a class="navbar-item" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
               Nosotros
             </a>
-            <a class="navbar-item" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
               Servicios
             </a>
-            <a class="navbar-item" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
               Aviso de privacidad
             </a>
-            <a class="navbar-item" href="faq.php">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="faq.php">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
               Contacto
             </a>
           </div>
