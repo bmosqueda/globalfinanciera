@@ -1,0 +1,30 @@
+.title-hero {
+  padding-bottom: 10px;
+}
+
+/*
+@media (min-width: 769px) and (max-width: 1023px) {
+
+}
+*/
+@media (max-width: 1087px) {
+  .title-hero {
+    padding: 10px 15px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1087px) {
+  .title-hero {
+    font-size: 3rem !important;
+  }
+
+  .title-hero {
+    padding: 10px 30px 0 30px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .hero-body {
+    display: none;
+  }
+}

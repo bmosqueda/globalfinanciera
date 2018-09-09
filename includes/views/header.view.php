@@ -14,7 +14,7 @@
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/public/fontawesome/css/all.min.css">
-    
+
     <!-- Presonalized classes -->
     <!-- Colores -->
     <!-- Footer: 00577C -->
@@ -77,7 +77,7 @@
         .logo-no-mobile {
           display: none;
         }
-
+        
         .modal-label {
           font-weight: normal;
         }
@@ -87,22 +87,22 @@
   </head>
   <body class="is-bold is-light">
     <!-- NavBar -->
-      <nav class="navbar <?php echo $navbarColor; ?>">
+      <nav class="navbar is-white">
         <div class="navbar-brand">
-          <a class="navbar-item" href="./">
+          <a class="navbar-item" href="/">
             <img class="logo-no-mobile" src="/public/images/Logos/logo-10.jpeg" alt="Sociedad Patrimonial 2018 ©"  width="300" height="2000">
             <figure class="logo-mobile image is-32x32 is-pulled-right text-mobile">
               <img src="/public/images/Logos/transparent-ico.png" alt="Sociedad Patrimonial 2018 ©">
           </figure>
           </a>
-          <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+          <div class="navbar-burger burger" data-target="navbar">
             <span></span>
             <span></span>
             <span></span>
           </div>
         </div>
 
-        <div id="navbarExampleTransparentExample" class="navbar-menu">
+        <div id="navbar" class="navbar-menu">
           <div class="navbar-start">
           </div>
           <div class="navbar-end">

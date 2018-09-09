@@ -1,7 +1,4 @@
 <style>
-  body {
-    font-family: "Helvetica Neue LT", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif
-  }
 
   @media (min-width: 796px) and (max-width: 1023px) {
     .is-question {
