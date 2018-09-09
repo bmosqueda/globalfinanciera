@@ -70,3 +70,7 @@ nav.is-info {
     display: none;
   }
 }
+/* dsa */
+.navbar-item.active {
+  border-bottom: 2px #fff solid;  
+}
