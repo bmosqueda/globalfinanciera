@@ -4,7 +4,7 @@
           <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 50px;">
             <a class="" href="#">
               <figure class="image is-5by3">
-                <img src="/public/images/Logos/transparent-white.png" alt="Bulma: a modern CSS framework based on Flexbox" width="200" height="1000">
+                <img src="/public/images/Logos/transparent-white.png" alt="Patrimonio social" width="200" height="1000">
               </figure>
             </a>
             <p class="has-text-light">
@@ -15,16 +15,16 @@
             <p class="footer-title  title is-5 has-text-light">Página</p>
             <ul>
               <li class="pad-bot-li">
-                <a class="has-text-light">Nosotros</a>
+                <a href="/nosotros/" class="has-text-light">Nosotros</a>
               </li>
               <li class="pad-bot-li">
-                <a class="has-text-light">Servicios</a>
+                <a href="/servicios/" class="has-text-light">Servicios</a>
               </li>
               <li class="pad-bot-li">
-                <a class="has-text-light">Aviso de privacidad</a>
+                <a href="/privacidad/" class="has-text-light">Aviso de privacidad</a>
               </li>
               <li class="pad-bot-li">
-                <a class="has-text-light">Preguntas frecuentes</a>
+                <a href="/preguntas-frecuentes/" class="has-text-light">Preguntas frecuentes</a>
               </li>
             </ul>
           </div>
@@ -66,7 +66,7 @@
           <div class="column is-2-desktop is-5-tablet is-12-mobile text-mobile">
             <p class="footer-title  title is-5 has-text-light">Siguénos</p>
             <a target="_blank" class="has-text-light">
-              <i class="fab fa-facebook fa-3x"></i>
+              <i class="fab fa-facebook" style="font-size: 3em;"></i>
             </a>
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-twitter fa-3x"></i>

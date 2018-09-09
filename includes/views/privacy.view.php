@@ -17,23 +17,23 @@
             De acuerdo a lo Previsto en la “Ley Federal de Protección de Datos Personales”, declara PATRIMONIO SOCIAL ser una empresa legalmente constituida de conformidad con las leyes mexicanas. Y como responsable del tratamiento de sus datos personales, hace de su conocimiento que la información de nuestros clientes es tratada de forma estrictamente confidencial por lo que al proporcionar sus datos personales, tales como:
           </p>
           <ul>
-            <li>Nombre Completo.</li>
+            <li>Nombre completo.</li>
             <li>Dirección.</li>
-            <li>Registro Federal de Contribuyentes.</li>
-            <li>Teléfonos de Hogar, Oficina y móviles.</li>
-            <li>Correo Electrónico.</li>
+            <li>Registro federal de contribuyentes.</li>
+            <li>Teléfonos de hogar, oficina y móviles.</li>
+            <li>Correo electrónico.</li>
           </ul>
           <br>
           <p>En el caso de datos sensibles, tales como:</p>
           <ul>
-            <li>Datos Financieros (Ingresos, Estados de Cuenta, y demás relacionados).</li>
-            <li>Datos Patrimoniales (Bienes Materiales, Inmuebles, y demás relacionados).</li>
-            <li>Datos Personales (Cónyuge, Estado Civil, Nacionalidad, Educación, Hijos, y demás relacionados).</li>
-            <li>Referencias familiares y no familiares (Nombre, Dirección, Teléfono, relación, etc.).</li>
+            <li>Datos financieros (ingresos, estados de cuenta, y demás relacionados).</li>
+            <li>Datos patrimoniales (bienes materiales, inmuebles, y demás relacionados).</li>
+            <li>Datos personales (cónyuge, estado civil, nacionalidad, educación, hijos, y demás relacionados).</li>
+            <li>Referencias familiares y no familiares (nombre, dirección, teléfono, relación, etc.).</li>
           </ul>
-          <p>Estos serán utilizados única y exclusivamente para los siguientes fines:</p>
+          <p>Éstos serán utilizados única y exclusivamente para los siguientes fines:</p>
           <ol>
-            <li>Investigación y/u obtención de créditos ante las instituciones Financieras.</li>
+            <li>Investigación y/u obtención de créditos ante las instituciones financieras.</li>
             <li>Cualquier finalidad análoga o compatible con la anterior.</li>
           </ol>
           <br>
@@ -45,15 +45,15 @@
           </p>
           <br>
           <p>
-            Todos sus datos personales son tratados de acuerdo a la legislación aplicable y vigente en el país, por ello le informamos que usted tiene en todo momento los derechos de acceder, rectificar, cancelar u oponerse al tratamiento que le damos a sus datos personales; derecho que podrá hacer valer a través del Área de Privacidad encargada de la seguridad de datos personales en el Teléfono (55) 63144107 Ext. 147, al Teléfono Directo (55) 71319611 o por medio de su correo electrónico: <a href="mailto:financiera.suma@hotmail.com">financiera.suma@hotmail.com</a>.
+            Todos sus datos personales son tratados de acuerdo a la legislación aplicable y vigente en el país, por ello le informamos que usted tiene en todo momento los derechos de acceder, rectificar, cancelar u oponerse al tratamiento que le damos a sus datos personales; derecho que podrá hacer valer a través del área de privacidad encargada de la seguridad de datos personales en el Teléfono (55) 63144107 Ext. 147, al Teléfono Directo (55) 71319611 o por medio de su correo electrónico: <a href="mailto:financiera.suma@hotmail.com">financiera.suma@hotmail.com</a>.
           </p>
           <br>
           <p>
-            A través de estos canales usted podrá actualizar sus datos y especificar el medio por el cual desea recibir información, ya que en caso de no contar con esta especificación de su parte, SOCIEDAD PATRIMONIAL establecerá libremente el canal que considere pertinente para enviarle información.
+            A través de estos canales usted podrá actualizar sus datos y especificar el medio por el cual desea recibir información, ya que en caso de no contar con esta especificación de su parte, PATRIMONIO SOCIAL establecerá libremente el canal que considere pertinente para enviarle información.
           </p>
           <br>
           <p>
-            Este aviso de privacidad podrá ser modificado por SOCIEDAD PATRIMONIAL; dichas modificaciones serán oportunamente informadas a través de correo electrónico, teléfono, o cualquier otro medio de comunicación que SOCIEDAD PATRIMONIAL determine para tal efecto.
+            Este aviso de privacidad podrá ser modificado por PATRIMONIO SOCIAL; dichas modificaciones serán oportunamente informadas a través de correo electrónico, teléfono, o cualquier otro medio de comunicación que PATRIMONIO SOCIAL determine para tal efecto.
           </p>
         </div>
       </div>

@@ -43,14 +43,14 @@
     <div class='carousel-container'>
       <div class='carousel-item has-background is-active'>
         <figure class="image is-3by1">
-          <img class="is-background" src="public/images/imagen4.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/imagen4.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/merry-christmas.jpg -->
         <div class="title">Confianza absoluta</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="public/images/imagen1.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/imagen1.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/singer.jpg -->
         <!-- <div class="title">Original Gift: Offer a song with <a href="https://lasongbox.com" target="_blank">La Song Box</a></div> -->
@@ -58,14 +58,14 @@
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="public/images/imagen2.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/imagen2.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/sushi.jpg -->
         <div class="title">Préstamos empresariales</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="public/images/imagen3.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/imagen3.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/life.jpg -->
         <div class="title">Préstamos en máximo 72 horas</div>

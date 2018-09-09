@@ -106,13 +106,13 @@
           <div class="navbar-start">
           </div>
           <div class="navbar-end">
-            <a class="navbar-item  has-text-link" href="./">
+            <a class="navbar-item  has-text-link" href="/">
               Inicio
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item has-text-link" href="/nosotros/">
               Nosotros
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item has-text-link" href="/servicios/">
               Servicios
             </a>
             <a class="navbar-item has-text-link" href="/privacidad/">
@@ -121,7 +121,7 @@
             <a class="navbar-item has-text-link" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item has-text-link" href="/contacto/">
               Contacto
             </a>
           </div>

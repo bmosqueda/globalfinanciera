@@ -40,13 +40,13 @@
         <div id="navbar" class="navbar-menu">
           <div class="navbar-start"></div>
           <div class="navbar-end">
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="./">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/">
               Inicio
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/nosotros/">
               Nosotros
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/servicios/">
               Servicios
             </a>
             <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
@@ -55,7 +55,7 @@
             <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/contacto/">
               Contacto
             </a>
           </div>
