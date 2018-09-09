@@ -49,10 +49,10 @@
             <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
               Servicios
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
               Aviso de privacidad
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="faq.php">
+            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
             <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="#">

@@ -115,10 +115,10 @@
             <a class="navbar-item has-text-link" href="#">
               Servicios
             </a>
-            <a class="navbar-item has-text-link" href="#">
+            <a class="navbar-item has-text-link" href="/privacidad/">
               Aviso de privacidad
             </a>
-            <a class="navbar-item has-text-link" href="faq.php">
+            <a class="navbar-item has-text-link" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
             <a class="navbar-item has-text-link" href="#">

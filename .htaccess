@@ -1,3 +1,4 @@
 RewriteEngine On
 RewriteRule ^preguntas-frecuentes/$ faq.php [L,NC]
+RewriteRule ^privacidad/$ aviso-privacidad.php [L,NC]
 Redirect /includes/ /
