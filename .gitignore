@@ -3,3 +3,4 @@ logs/
 links.txt
 sftp-config.json
 .vscode/
+.well-known/

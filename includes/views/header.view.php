@@ -82,6 +82,9 @@
           font-weight: normal;
         }
       }
+      .is-purple {
+        color: #752152 !important;
+      }
     </style>
     <title><?php echo $title; ?></title>
   </head>
@@ -106,22 +109,22 @@
           <div class="navbar-start">
           </div>
           <div class="navbar-end">
-            <a class="navbar-item  has-text-link" href="/">
+            <a class="navbar-item  is-purple has-text-weight-semibold" href="/">
               Inicio
             </a>
-            <a class="navbar-item has-text-link" href="/nosotros/">
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/nosotros/">
               Nosotros
             </a>
-            <a class="navbar-item has-text-link" href="/servicios/">
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/servicios/">
               Servicios
             </a>
-            <a class="navbar-item has-text-link" href="/privacidad/">
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/privacidad/">
               Aviso de privacidad
             </a>
-            <a class="navbar-item has-text-link" href="/preguntas-frecuentes/">
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item has-text-link" href="/contacto/">
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/contacto/">
               Contacto
             </a>
           </div>

@@ -40,25 +40,26 @@
         <div id="navbar" class="navbar-menu">
           <div class="navbar-start"></div>
           <div class="navbar-end">
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/">
+            <a id="home" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/">
               Inicio
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/nosotros/">
+            <a id="about-us" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/nosotros/">
               Nosotros
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/servicios/">
+            <a id="services" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/servicios/">
               Servicios
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
+            <a id="privacy" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
               Aviso de privacidad
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
+            <a id="faq" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>
-            <a class="navbar-item is-size-5-mobile has-text-weight-bold" href="/contacto/">
+            <a id="contact" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/contacto/">
               Contacto
             </a>
           </div>
         </div>
       </nav>
     <!-- NavBar Fin -->
+    <script>document.getElementById("<?php echo $tabActive; ?>").classList.add("active")</script>
