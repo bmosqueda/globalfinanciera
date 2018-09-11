@@ -15,7 +15,7 @@
     <img src="/public/images/imagen5.jpeg">
     <div class="description">
       <div class="description_content">
-        <p class="hero-image-text is-uppercase has-text-weight-bold has-text-centered has-text-white">Préstamos personales desde $20,000 hasta $2 millones de pesos</p>
+        <p class="hero-image-text is-uppercase has-text-weight-bold has-text-centered has-text-white">Préstamos personales desde $5,000 hasta $2 millones de pesos</p>
       </div>
     </div>
   </figure>
@@ -27,10 +27,10 @@
         <div class="content has-text-justified">
           <h1>Servicios</h1>
           <p>
-            En Patrimonio Social contamos con varios servicios que se ajustan a sus necesidades, brindándole prestamos de $20 mil pesos hasta $2 millones de pesos, con plazos flexibles y planes totalmente personalizados.
+            En Patrimonio Social contamos con varios servicios que se ajustan a sus necesidades, brindándole préstamos de $20 mil pesos hasta $2 millones de pesos, con plazos flexibles y planes totalmente personalizados.
           </p>
           <ul>
-            <li>Prestamos personales.</li>
+            <li>Préstamos personales.</li>
             <li>Recuperación de subcuenta de vivienda.</li>
             <li>Créditos hipotecarios.</li>
           </ul>

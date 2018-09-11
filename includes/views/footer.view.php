@@ -7,13 +7,14 @@
                 <img src="/public/images/Logos/transparent-white.png" alt="Patrimonio social" width="200" height="1000">
               </figure>
             </a>
-            <p class="has-text-light">
-              Sociedad Patrimonial somos una SOFOM que otorga créditos personales inmediatos sin buró de crédito. Te invitamos a conocer mas acerca de nuestros servicios 
-            </p>
+            <p class="has-text-light has-text-justified"> Somos una sociedad financiera especializada que otorga créditos personales y empresariales inmediatos comprometida con nuestros clientes.</p>
           </div>
           <div class="column is-2-desktop is-5-tablet is-12-mobile">
             <p class="footer-title  title is-5 has-text-light">Página</p>
             <ul>
+              <li class="pad-bot-li">
+                <a href="/" class="has-text-light">Inicio</a>
+              </li>
               <li class="pad-bot-li">
                 <a href="/nosotros/" class="has-text-light">Nosotros</a>
               </li>
@@ -25,6 +26,9 @@
               </li>
               <li class="pad-bot-li">
                 <a href="/preguntas-frecuentes/" class="has-text-light">Preguntas frecuentes</a>
+              </li>
+              <li class="pad-bot-li">
+                <a href="/contacto/" class="has-text-light">Contacto</a>
               </li>
             </ul>
           </div>
@@ -40,7 +44,7 @@
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-envelope"></i>
-                  <span>&nbsp;programaciondecitas@global.com.mx</span>
+                  <span>&nbsp;admin@patrimoniosocial.org</span>
                 </p>
               </li>
               <li>
