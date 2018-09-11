@@ -1,0 +1,47 @@
+.description{
+  position: absolute; /* absolute position (so we can position it where we want)*/
+  width:100%;
+  bottom: 40%;
+}
+
+.wrapper{
+  background-color: #000;
+}
+
+.wrapper > img {
+  opacity: 0.5;
+}
+
+@media (min-width: 1089px) {
+  .hero-image-text {
+    font-size: 3.5rem !important;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1088px) {
+  .hero-image-text {
+    font-size: 3rem !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width:1023px) {
+  .hero-image-text {
+    font-size: 2rem !important;
+  }
+}
+
+@media (max-width:768px) {
+  .hero-image-text {
+    font-size: 1.5rem !important;
+  }
+ 
+  .description {
+    bottom: 30%;
+  }
+}
+
+@media (max-width: 355px) {
+  .description {
+    bottom: 20%;
+  }
+}

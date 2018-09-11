@@ -15,6 +15,9 @@
             <p class="footer-title  title is-5 has-text-light">Página</p>
             <ul>
               <li class="pad-bot-li">
+                <a href="/" class="has-text-light">Inicio</a>
+              </li>
+              <li class="pad-bot-li">
                 <a href="/nosotros/" class="has-text-light">Nosotros</a>
               </li>
               <li class="pad-bot-li">
@@ -25,6 +28,9 @@
               </li>
               <li class="pad-bot-li">
                 <a href="/preguntas-frecuentes/" class="has-text-light">Preguntas frecuentes</a>
+              </li>
+              <li class="pad-bot-li">
+                <a href="/contacto/" class="has-text-light">Contacto</a>
               </li>
             </ul>
           </div>
@@ -40,7 +46,7 @@
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-envelope"></i>
-                  <span>&nbsp;programaciondecitas@global.com.mx</span>
+                  <span>&nbsp;admin@patrimoniosocial.org</span>
                 </p>
               </li>
               <li>

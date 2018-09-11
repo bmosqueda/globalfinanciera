@@ -1,74 +1,44 @@
 <style>
-  .is-shady {
-    animation: flyintoright .4s backwards;
-    background: #fff;
-    box-shadow: rgba(0, 0, 0, .1) 0 1px 0;
-    border-radius: 4px;
-    display: inline-block;
-    margin: 10px;
-    position: relative;
-    transition: all .2s ease-in-out;
-    width: 100%;
+  .btn-purple {
+    color: white;
+    background-color: #752152 !important;
   }
-  .is-shady:hover {
-    box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
-  }
-  html,body {
-    background: #EFF3F4;
-    /* font-family: 'Open Sans', serif; */
-    font-family: "Helvetica Neue LT", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
-  } 
-  .card-image > .fa {
-    font-size: 8rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    color: #209cee;
-  }
-  i.fas {
-    padding-bottom: 32px;
-    padding-top: 32px;
-  }
-  /*Para que las cartas tengan el mismo tamaño*/
-  .row {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  /*Para que las cartas tengan el mismo tamaño*/
-  .col {
-    display: flex;
+  .carousel-title {
+    font-size: 1rem !important;
   }
 </style>
+<link rel="stylesheet" href="/public/css/index.css">
 <!-- Carousel -->
   <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
     <div class='carousel-container'>
       <div class='carousel-item has-background is-active'>
         <figure class="image is-3by1">
-          <img class="is-background" src="/public/images/imagen4.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/carousel/confianza.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/merry-christmas.jpg -->
-        <div class="title">Confianza absoluta</div>
+        <div class="title carousel-title">Confianza absoluta</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="/public/images/imagen1.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/carousel/personales.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/singer.jpg -->
         <!-- <div class="title">Original Gift: Offer a song with <a href="https://lasongbox.com" target="_blank">La Song Box</a></div> -->
-        <div class="title">Préstamos personales</div>
+        <div class="title carousel-title">Préstamos personales</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="/public/images/imagen2.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/carousel/empresariales2.jpg" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/sushi.jpg -->
-        <div class="title">Préstamos empresariales</div>
+        <div class="title carousel-title">Préstamos empresariales</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
-          <img class="is-background" src="/public/images/imagen3.jpg" alt="" width="640" height="310" />
+          <img class="is-background" src="/public/images/carousel/72horas.png" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/life.jpg -->
-        <div class="title">Préstamos en máximo 72 horas</div>
+        <div class="title carousel-title">Préstamos en máximo 72 horas</div>
       </div>
     </div>
     <div class="carousel-navigation is-overlay">
@@ -240,7 +210,9 @@
         <p class="help feed is-danger" style="display: none;" id="feed-message"></p>
       </section>
       <footer class="modal-card-foot">
-        <button class="button is-success" id="btnSolicitar">Mandar solicitud</button>
+        <button class="button is-dark btn-purple is-pulled-right" id="btnSolicitar" onclick="alert('en desarrollo')">Enviar</button>
+
+        <!-- <button class="button is-success" id="btnSolicitar">Mandar solicitud</button> -->
         <button class="button" onclick="activeModalFormulario(false)">Cancelar</button>
       </footer>
     </div>
@@ -260,4 +232,6 @@
       </footer>
     </div>
   </div>
-<!-- Modal section FIN
+<!-- Modal section FIN -->
+<?php  require_once(VIEW_PATH.'footer.view.php'); ?>
+<script src="/public/js/request-form.js"></script>
