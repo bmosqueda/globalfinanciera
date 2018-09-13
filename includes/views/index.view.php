@@ -6,31 +6,22 @@
   .carousel-title {
     font-size: 1rem !important;
   }
-  .bill-color {
-    color: #116611;
-  }
-  .person-color {
-    color: #752152;
-  }
-  .house-color {
-    color: #9C9D9C;
-  }
 </style>
 <link rel="stylesheet" href="/public/css/index.css">
 <!-- Carousel -->
   <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
     <div class='carousel-container'>
-      <div class='carousel-item has-background is-active'>
-        <figure class="image is-3by1">
-          <img class="is-background" src="/public/images/carousel/personales.jpg" alt="" width="640" height="310" />
-        </figure>
-        <div class="title carousel-title">Préstamos personales</div>
-      </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
           <img class="is-background" src="/public/images/carousel/confianza.jpg" alt="" width="640" height="310" />
         </figure>
         <div class="title carousel-title">Confianza absoluta</div>
+      </div>
+      <div class='carousel-item has-background is-active'>
+        <figure class="image is-3by1">
+          <img class="is-background" src="/public/images/carousel/personales.jpg" alt="" width="640" height="310" />
+        </figure>
+        <div class="title carousel-title">Préstamos personales</div>
       </div>
       <div class='carousel-item has-background'>
         <figure class="image is-3by1">
@@ -44,7 +35,7 @@
           <img class="is-background" src="/public/images/carousel/72horas.png" alt="" width="640" height="310" />
         </figure>
         <!-- https://wikiki.github.io/images/life.jpg -->
-        <div class="title carousel-title">Préstamos en máximo 72 horas</div>
+        <div class="title carousel-title">PRÉSTAMOS EXPRESS (CAT 20% ANUAL)</div>
       </div>
     </div>
     <div class="carousel-navigation is-overlay">
@@ -67,6 +58,7 @@
         </h1>
         <h2 class="subtitle has-text-justified">
           Patrimonio social es una empresa consolidada que cuenta con más de 19 años de experiencia otorgando créditos a particulares y empresas. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
+          Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad.
         </h2>
         <h2 class="subtitle has-text-justified">
           Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad.
@@ -78,7 +70,7 @@
           <div class="column is-4-desktop is-4-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-user-shield fa-5x person-color"></i>
+                      <i class="fas fa-user-shield fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">
@@ -91,12 +83,12 @@
           <div class="column is-4-desktop is-4-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-money-bill fa-5x bill-color"></i>
+                      <i class="fas fa-money-bill fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">
                           <h4 class="has-text-centered">Créditos personales y empresariales</h4>
-                          <p class="has-text-justified">Préstamos en efectivo, desde $5,000 hasta $2,000,000 de pesos. El buró no es determinante.</p>
+                          <p class="has-text-justified">Préstamos en efectivo, desde $5,000.00 hasta $2,000,000.00 de pesos. El buró de crédito no es determinante.</p>
                       </div>
                   </div>
               </div>
@@ -104,7 +96,7 @@
           <div class="column is-4-desktop is-4-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-home fa-5x house-color"></i>
+                      <i class="fas fa-home fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">

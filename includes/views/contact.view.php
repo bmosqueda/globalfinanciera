@@ -30,7 +30,7 @@
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.js"></script>
 <link rel="stylesheet" href="/public/css/privacy.css">
-<section class="hero has-background-blue">
+<section class="hero has-background-purple">
   <div class="hero-body"></div>
   <div class="hero-foot">
     <div class="container">
@@ -99,13 +99,13 @@
                   <i class="fa fa-phone"></i>
                   <span>&nbsp;TELEFÓNOS</span>
                 </p>
-                <p class="data-color">55 77 39 33 62</p>
+                <p class="data-color">55 25 75 11 42</p>
                 <p class="data-color">55 77 37 08 58</p>
-                <p class="data-color">55 44 97 56 46</p>
+                <p class="data-color">55 77 39 33 62</p>
                 <p class="data-color">55 68 65 37 76</p>
-                <p class="data-color">55 37 61 84 96</p>
+                <p class="data-color">55 68 63 96 99</p>
+                <p class="data-color">55 44 97 56 46</p>
                 <br>
-
                 <p class="title-color">
                   <i class="fa fa-envelope"></i>
                   <span>&nbsp;CORREOS</span>

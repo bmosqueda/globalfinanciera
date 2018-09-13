@@ -52,6 +52,9 @@
             <a id="privacy" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
               Aviso de privacidad
             </a>
+            <a id="requirements" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/requisitos/">
+              Requisitos
+            </a>
             <a id="faq" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
               Preguntas frecuentes
             </a>

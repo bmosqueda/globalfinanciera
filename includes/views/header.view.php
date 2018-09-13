@@ -45,8 +45,12 @@
       .image.is-3by1 {
         padding-top: 31.333% !important;
       }
-      .has-background-blue {
-        background-color: #00577C;
+      .has-background-purple {
+        /*Morado*/
+        background-color: #752152;
+        /*Azul
+          background-color: #00577C;
+        */
       }
       .footer-title {
         margin-bottom: 20px;
@@ -120,6 +124,9 @@
             </a>
             <a class="navbar-item is-purple has-text-weight-semibold" href="/privacidad/">
               Aviso de privacidad
+            </a>
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/requisitos/">
+              Requisitos
             </a>
             <a class="navbar-item is-purple has-text-weight-semibold" href="/preguntas-frecuentes/">
               Preguntas frecuentes

@@ -1,5 +1,5 @@
     <!-- Footer -->
-      <footer class="footer has-background-blue">
+      <footer class="footer has-background-purple">
         <div class="columns is-multiline">
           <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 50px;">
             <a class="" href="#">
@@ -7,7 +7,7 @@
                 <img src="/public/images/Logos/transparent-white.png" alt="Patrimonio social" width="200" height="1000">
               </figure>
             </a>
-            <p class="has-text-light has-text-justified"> Somos una sociedad financiera especializada que otorga créditos personales y empresariales inmediatos comprometida con nuestros clientes.</p>
+            <p class="has-text-light has-text-justified">Somos una sociedad financiera comprometida con nuestros clientes que otorga créditos personales y empresariales inmediatos.</p>
           </div>
           <div class="column is-2-desktop is-5-tablet is-12-mobile">
             <p class="footer-title  title is-5 has-text-light">Página</p>
@@ -23,6 +23,9 @@
               </li>
               <li class="pad-bot-li">
                 <a href="/privacidad/" class="has-text-light">Aviso de privacidad</a>
+              </li>
+              <li class="pad-bot-li">
+                <a href="/requisitos/" class="has-text-light">Requisitos</a>
               </li>
               <li class="pad-bot-li">
                 <a href="/preguntas-frecuentes/" class="has-text-light">Preguntas frecuentes</a>
@@ -50,6 +53,12 @@
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
+                  <span>&nbsp;55 25 75 11 42</span>
+                </p>
+              </li>
+              <li>
+                <p class="has-text-light" href="#">
+                  <i class="fa fa-phone"></i>
                   <span>&nbsp;55 77 37 08 58</span>
                 </p>
               </li>
@@ -62,16 +71,28 @@
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 37 61 84 96</span>
+                  <span>&nbsp;55 68 65 37 76</span>
+                </p>
+              </li>
+              <li>
+                <p class="has-text-light" href="#">
+                  <i class="fa fa-phone"></i>
+                  <span>&nbsp;55 68 63 96 99</span>
+                </p>
+              </li>
+              <li>
+                <p class="has-text-light" href="#">
+                  <i class="fa fa-phone"></i>
+                  <span>&nbsp;55 44 97 56 46</span>
                 </p>
               </li>
             </ul>
           </div>
-          <div class="column is-2-desktop is-5-tablet is-12-mobile text-mobile">
+          <!-- <div class="column is-2-desktop is-5-tablet is-12-mobile text-mobile">
             <p class="footer-title  title is-5 has-text-light">Siguénos</p>
             <a target="_blank" class="has-text-light">
               <i class="fab fa-facebook" style="font-size: 3em;"></i>
-            </a>
+            </a> -->
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-twitter fa-3x"></i>
             </a> -->
@@ -81,10 +102,23 @@
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-linkedin fa-3x"></i>
             </a> -->
-            <p class="footer-title  has-text-light">Sociedad Patrimonial 2018 ©</p>
-          </div>
+            <!-- <p class="footer-title  has-text-light">Sociedad Patrimonial 2018 ©</p> -->
+          <!-- </div> -->
         </div>
       </footer>
+      <div class="has-text-centered has-background-purple" style="margin: 0px;">
+        <p 
+          class="footer-title has-text-light" 
+          style="font-size: 0.8rem; padding-bottom: 10px;margin: 0px;"
+        >CAT PROMEDIO PONDERADO 14% ANUAL EN PRÉSTAMOS EMPRESARIALES</p>
+        <p 
+          class="footer-title has-text-light" 
+          style="font-size: 0.8rem; padding-bottom: 10px;margin: 0px;"
+        >SOCIEDAD PATROMONIAL 2018 ©</p>
+        <a target="_blank" class="has-text-light">
+          <i class="fab fa-facebook" style="font-size: 3em;"></i>
+        </a>
+      </div>
     <!-- Footer Fin --> 
     <!-- Bulma Carousel JS-->
     <script src="/public/js/bulma-carousel.min.js"></script>

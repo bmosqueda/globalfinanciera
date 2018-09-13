@@ -56,7 +56,7 @@
     }
   }
 </style>
-<section class="hero has-background-blue">
+<section class="hero has-background-purple">
   <div class="hero-body">
     <div class="container has-text-white">
       <div class="columns">
@@ -78,88 +78,6 @@
   <div class="columns is-centered">
     <div class="column is-2-desktop is-2-tablet is-12-mobile">
       <div class="text-mobile"><!-- Quite class question-->
-        <i class="far fa-id-card fa-5x"></i>
-        <i class="far fa-id-card fa-3x"></i>
-      </div>
-    </div>
-    <div class="column is-8-desktop is-10-tablet is-12-mobile">
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Cu&aacute;les son los requisitos para solicitar un pr&eacute;stamo?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              INE, comprobante de domicilio, comprobante de ingresos, dos referencias personales con nombre completo y
-              tel&eacute;fono.
-            </div>
-          </div>
-        </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Cu&aacute;les son los requisitos para solicitar un pr&eacute;stamo?
-        </p>
-        <p>INE, comprobante de domicilio, comprobante de ingresos, dos referencias personales con nombre completo y
-          tel&eacute;fono.</p>
-      </div>
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Qu&eacute; sucede si no tengo comprobante de ingreso?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              No hay inconveniente, puede enviar la documentaci&oacute;n anterioriormente mencionada.
-            </div>
-          </div>
-        </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Qu&eacute; sucede si no tengo comprobante de ingreso?
-        </p>
-        <p>No hay inconveniente, puede enviar la documentaci&oacute;n anterioriormente mencionada.</p>
-      </div>
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Consultan bur&oacute; de cr&eacute;dito?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              No es determinante el bur&oacute; de cr&eacute;dito.
-            </div>
-          </div>
-        </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Consultan bur&oacute; de cr&eacute;dito?
-        </p>
-        <p>No es determinante el bur&oacute; de cr&eacute;dito.</p>
-      </div>
-      <hr>
-    </div>
-  </div>
-  <div class="columns is-centered">
-    <div class="column is-2-desktop is-2-tablet is-12-mobile">
-      <div class="text-mobile"><!-- Quite class question-->
         <i class="fas fa-money-bill-wave fa-5x"></i>
         <i class="fas fa-money-bill-wave fa-3x"></i>
       </div>
@@ -177,17 +95,17 @@
           </header>
           <div class="card-content is-paddingless is-hidden">
             <div class="content">
-              Desde $20,000 hasta $2,000,000.
+              Desde $5,000.00 hasta $2,000,000.00 de pesos.
             </div>
           </div>
         </div>
       <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Cu&aacute;les son los montos a financiar?
-        </p>
-        <p>Desde $20,000 hasta $2,000,000.</p>
-      </div>
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Cu&aacute;les son los montos a financiar?
+          </p>
+          <p>Desde $5,000 hasta $2,000,000 de pesos.</p>
+        </div>
       <!-- Collapsible -->
         <div class="collapsible card is-fullwidth is-shadowless">
           <header class="card-toggle card-header is-shadowless">
@@ -205,12 +123,12 @@
           </div>
         </div>
       <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿C&oacute;mo es la entrega del cr&eacute;dito?
-        </p>
-        <p>Por medio de una transferencia bancaria.</p>
-      </div>
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿C&oacute;mo es la entrega del cr&eacute;dito?
+          </p>
+          <p>Por medio de una transferencia bancaria.</p>
+        </div>
       <!-- Collapsible -->
         <div class="collapsible card is-fullwidth is-shadowless">
           <header class="card-toggle card-header is-shadowless">
@@ -223,33 +141,34 @@
           </header>
           <div class="card-content is-paddingless is-hidden">
             <div class="content">
-              Los pr&eacute;stamos son personal y empresariales.
+              No, únicamente otorgamos pr&eacute;stamos a particulares y empresas.
             </div>
           </div>
         </div>
       <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Se otorgan pr&eacute;stamos grupales?
-        </p>
-        <p>Los pr&eacute;stamos son personal y empresariales.</p>
-      </div>
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Se otorgan pr&eacute;stamos grupales?
+          </p>
+          <p>No, únicamente otorgamos pr&eacute;stamos a particulares y empresas.</p>
+        </div>
+      <!-- /Collapsible -->
       <hr>
     </div>
   </div>
   <div class="columns is-centered">
     <div class="column is-2-desktop is-2-tablet is-12-mobile">
       <div class="text-mobile"><!-- Quite class question-->
-        <i class="far fa-clock fa-5x"></i>
-        <i class="far fa-clock fa-3x"></i>
+        <i class="far fa-id-card fa-5x"></i>
+        <i class="far fa-id-card fa-3x"></i>
       </div>
     </div>
     <div class="column is-8-desktop is-10-tablet is-12-mobile">
       <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
+        <!-- <div class="collapsible card is-fullwidth is-shadowless">
           <header class="card-toggle card-header is-shadowless">
             <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿En cuanto tiempo puedo disponer del cr&eacute;dito?
+              ¿Cu&aacute;les son los requisitos para solicitar un pr&eacute;stamo?
             </p>
             <a class="card-header-icon">
               <i class="fa fa-angle-down"></i>
@@ -257,22 +176,45 @@
           </header>
           <div class="card-content is-paddingless is-hidden">
             <div class="content">
-              A partir de 72 horas.
+              INE, comprobante de domicilio, comprobante de ingresos, dos referencias personales con nombre completo y tel&eacute;fono.
+            </div>
+          </div>
+        </div> -->
+      <!-- /Collapsible -->
+      <!-- <div class="question">
+        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+          ¿Cu&aacute;les son los requisitos para solicitar un pr&eacute;stamo?
+        </p>
+        <p>INE, comprobante de domicilio, comprobante de ingresos, dos referencias personales con nombre completo y tel&eacute;fono.</p>
+      </div> -->
+      <!-- Collapsible -->
+        <div class="collapsible card is-fullwidth is-shadowless">
+          <header class="card-toggle card-header is-shadowless">
+            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+              ¿Qu&eacute; sucede si no tengo comprobante de ingreso?
+            </p>
+            <a class="card-header-icon">
+              <i class="fa fa-angle-down"></i>
+            </a>
+          </header>
+          <div class="card-content is-paddingless is-hidden">
+            <div class="content">
+              No hay inconveniente, se puede realizar el trámite con los dem&aacute;s documentos.
             </div>
           </div>
         </div>
       <!-- /Collapsible -->
       <div class="question">
         <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿En cuanto tiempo puedo disponer del cr&eacute;dito?
+          ¿Qu&eacute; sucede si no tengo comprobante de ingreso?
         </p>
-        <p>A partir de 72 horas.</p>
+        <p>No hay inconveniente, se puede realizar el trámite con los dem&aacute;s documentos.</p>
       </div>
       <!-- Collapsible -->
         <div class="collapsible card is-fullwidth is-shadowless">
           <header class="card-toggle card-header is-shadowless">
             <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Cu&aacute;nto dura el trámite?
+              ¿Consultan bur&oacute; de cr&eacute;dito?
             </p>
             <a class="card-header-icon">
               <i class="fa fa-angle-down"></i>
@@ -280,110 +222,167 @@
           </header>
           <div class="card-content is-paddingless is-hidden">
             <div class="content">
-              El tr&aacute;mite dura máximo 5 días, dependiendo la demora del cliente.
+              No, ya que no es determinante para otorgarle el crédito
             </div>
           </div>
         </div>
       <!-- /Collapsible -->
       <div class="question">
         <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Cu&aacute;nto dura el trámite?
+          ¿Consultan bur&oacute; de cr&eacute;dito?
         </p>
-        <p>El tr&aacute;mite dura máximo 5 días, dependiendo la demora del cliente.</p>
+        <p>No, ya que no es determinante para otorgarle el crédito</p>
       </div>
       <hr>
     </div>
   </div>
-  <div class="columns is-centered">
-    <div class="column is-2-desktop is-2-tablet is-12-mobile">
-      <div class="text-mobile"><!-- Quite class question-->
-        <i class="fas fa-globe-americas fa-5x"></i>
-        <i class="fas fa-globe-americas fa-3x"></i>
+    <div class="columns is-centered">
+      <div class="column is-2-desktop is-2-tablet is-12-mobile">
+        <div class="text-mobile"><!-- Quite class question-->
+          <i class="far fa-clock fa-5x"></i>
+          <i class="far fa-clock fa-3x"></i>
+        </div>
+      </div>
+      <div class="column is-8-desktop is-10-tablet is-12-mobile">
+        <!-- Collapsible -->
+          <div class="collapsible card is-fullwidth is-shadowless">
+            <header class="card-toggle card-header is-shadowless">
+              <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+                ¿En cuanto tiempo puedo disponer del cr&eacute;dito?
+              </p>
+              <a class="card-header-icon">
+                <i class="fa fa-angle-down"></i>
+              </a>
+            </header>
+            <div class="card-content is-paddingless is-hidden">
+              <div class="content">
+                A partir de 72 horas.
+              </div>
+            </div>
+          </div>
+        <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿En cuanto tiempo puedo disponer del cr&eacute;dito?
+          </p>
+          <p>A partir de 72 horas.</p>
+        </div>
+        <!-- Collapsible -->
+          <div class="collapsible card is-fullwidth is-shadowless">
+            <header class="card-toggle card-header is-shadowless">
+              <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+                ¿Cu&aacute;nto dura el trámite?
+              </p>
+              <a class="card-header-icon">
+                <i class="fa fa-angle-down"></i>
+              </a>
+            </header>
+            <div class="card-content is-paddingless is-hidden">
+              <div class="content">
+                El tr&aacute;mite dura máximo 5 días, dependiendo la respuesta del cliente.
+              </div>
+            </div>
+          </div>
+        <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Cu&aacute;nto dura el trámite?
+          </p>
+          <p>El tr&aacute;mite dura máximo 5 días, dependiendo la respuesta del cliente.</p>
+        </div>
+        <hr>
       </div>
     </div>
-    <div class="column is-8-desktop is-10-tablet is-12-mobile">
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿En d&oacute;nde se encuentran ubicados?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              Nuestro innovador sistema de visita a domicilio nos permite acudir hasta usted para otorgarle un cr&eacute;dito.
+    <div class="columns is-centered">
+      <div class="column is-2-desktop is-2-tablet is-12-mobile">
+        <div class="text-mobile"><!-- Quite class question-->
+          <i class="fas fa-globe-americas fa-5x"></i>
+          <i class="fas fa-globe-americas fa-3x"></i>
+        </div>
+      </div>
+      <div class="column is-8-desktop is-10-tablet is-12-mobile">
+        <!-- Collapsible -->
+          <div class="collapsible card is-fullwidth is-shadowless">
+            <header class="card-toggle card-header is-shadowless">
+              <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+                ¿En d&oacute;nde se encuentran ubicados?
+              </p>
+              <a class="card-header-icon">
+                <i class="fa fa-angle-down"></i>
+              </a>
+            </header>
+            <div class="card-content is-paddingless is-hidden">
+              <div class="content">
+                Nuestro innovador sistema de visita a domicilio nos permite acudir hasta usted para otorgarle un cr&eacute;dito.
+              </div>
             </div>
           </div>
+        <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿En d&oacute;nde se encuentran ubicados?
+          </p>
+          <p>Nuestro innovador sistema de visita a domicilio nos permite acudir hasta usted para otorgarle un cr&eacute;dito.</p>
         </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿En d&oacute;nde se encuentran ubicados?
-        </p>
-        <p>Nuestro innovador sistema de visita a domicilio nos permite acudir hasta usted para otorgarle un cr&eacute;dito.</p>
-      </div>
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Autorizan a toda la república mexicana?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              Abarcamos toda la república mexicana.
+        <!-- Collapsible -->
+          <div class="collapsible card is-fullwidth is-shadowless">
+            <header class="card-toggle card-header is-shadowless">
+              <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+                ¿Autorizan a toda la república mexicana?
+              </p>
+              <a class="card-header-icon">
+                <i class="fa fa-angle-down"></i>
+              </a>
+            </header>
+            <div class="card-content is-paddingless is-hidden">
+              <div class="content">
+                Sí, abarcamos toda la república mexicana.
+              </div>
             </div>
           </div>
+        <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Autorizan a toda la república mexicana?
+          </p>
+          <p>Sí, abarcamos toda la república mexicana.</p>
         </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Autorizan a toda la república mexicana?
-        </p>
-        <p>Abarcamos toda la república mexicana.</p>
-      </div>
-      <!-- Collapsible -->
-        <div class="collapsible card is-fullwidth is-shadowless">
-          <header class="card-toggle card-header is-shadowless">
-            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
-              ¿Autorizan pr&eacute;stamos a personas extranjeras?
-            </p>
-            <a class="card-header-icon">
-              <i class="fa fa-angle-down"></i>
-            </a>
-          </header>
-          <div class="card-content is-paddingless is-hidden">
-            <div class="content">
-              Siempre y cuando tengan residencia en M&eacute;xico.
+        <!-- Collapsible -->
+          <div class="collapsible card is-fullwidth is-shadowless">
+            <header class="card-toggle card-header is-shadowless">
+              <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+                ¿Autorizan pr&eacute;stamos a personas extranjeras?
+              </p>
+              <a class="card-header-icon">
+                <i class="fa fa-angle-down"></i>
+              </a>
+            </header>
+            <div class="card-content is-paddingless is-hidden">
+              <div class="content">
+                Sí, siempre y cuando tengan residencia en M&eacute;xico.
+              </div>
             </div>
           </div>
+        <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Autorizan pr&eacute;stamos a personas extranjeras?
+          </p>
+          <p>Sí, siempre y cuando tengan residencia en M&eacute;xico.</p>
         </div>
-      <!-- /Collapsible -->
-      <div class="question">
-        <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
-          ¿Autorizan pr&eacute;stamos a personas extranjeras?
-        </p>
-        <p>Siempre y cuando tengan residencia en M&eacute;xico.</p>
+        <hr>
       </div>
-      <hr>
     </div>
-  </div>
-  </div>
-</main>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    let cardToggles = document.getElementsByClassName('card-toggle');
-    for (let i = 0; i < cardToggles.length; i++) {
-      cardToggles[i].addEventListener('click', e => {
-        // e.currentTarget.parentElement.parentElement.childNodes[3].classList.toggle('is-hidden');
-        e.currentTarget.parentElement.childNodes[3].classList.toggle('is-hidden');
-      });
-    }
-  });
-</script>
+    </div>
+  </main>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      let cardToggles = document.getElementsByClassName('card-toggle');
+      for (let i = 0; i < cardToggles.length; i++) {
+        cardToggles[i].addEventListener('click', e => {
+          // e.currentTarget.parentElement.parentElement.childNodes[3].classList.toggle('is-hidden');
+          e.currentTarget.parentElement.childNodes[3].classList.toggle('is-hidden');
+        });
+      }
+    });
+  </script>

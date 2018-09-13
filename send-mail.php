@@ -5,8 +5,7 @@ $name = isset($_POST['name']) ? $_POST['name'] : FALSE;
 $phone = $_POST['phone'];
 $email = isset($_POST['email']) ? $_POST['email'] : FALSE;
 $message = isset($_POST['message']) ? $_POST['message'] : FALSE;
-$isValidEmail = TRUE;
-// $isValidEmail = preg_match("/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/", $email);
+$isValidEmail = preg_match("/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/", $email);
 
 if ($name && $email && $message && $isValidEmail) {
     $headers = [
