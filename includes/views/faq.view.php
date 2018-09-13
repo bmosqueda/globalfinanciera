@@ -77,8 +77,8 @@
     <div class="container has-text-white">
       <div class="columns">
         <div class="column is-half">
-          <!-- <p class="is-size-1-desktop is-size-2-tablet is-d-mobile is-pulled-left">Preguntas Frecuentes</p> -->
-          <!-- <p class="is-size-1-desktop is-size-2-tablet is-size-4-mobile is-pulled-left">Preguntas Frecuentes</p>
+          <p class="is-size-1-desktop is-size-2-tablet is-d-mobile is-pulled-left">Preguntas Frecuentes</p> 
+          <p class="is-size-1-desktop is-size-2-tablet is-size-4-mobile is-pulled-left">Preguntas Frecuentes</p>
         </div>
         <div class="logo column is-half">
           <figure class="image is-128x128 is-pulled-right text-mobile">

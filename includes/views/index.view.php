@@ -83,7 +83,7 @@
           <div class="column is-3-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-money-bill fa-5x"></i>
+                      <i class="fas fa-user-shield fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">
