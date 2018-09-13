@@ -45,8 +45,12 @@
       .image.is-3by1 {
         padding-top: 31.333% !important;
       }
-      .has-background-blue {
-        background-color: #00577C;
+      .has-background-purple {
+        /*Morado*/
+        background-color: #752152;
+        /*Azul
+          background-color: #00577C;
+        */
       }
       .footer-title {
         margin-bottom: 20px;
@@ -93,7 +97,7 @@
       <nav class="navbar is-white">
         <div class="navbar-brand">
           <a class="navbar-item" href="/">
-            <img class="logo-no-mobile" src="/public/images/Logos/logo-10.jpeg" alt="Sociedad Patrimonial 2018 ©"  width="300" height="2000">
+            <img class="logo-no-mobile" src="/public/images/Logos/logo-10.jpeg" alt="Patrimonio Social 2018 ©"  width="300" height="2000">
             <figure class="logo-mobile image is-32x32 is-pulled-right text-mobile">
               <img src="/public/images/Logos/transparent-ico.png" alt="Sociedad Patrimonial 2018 ©">
           </figure>
@@ -120,6 +124,9 @@
             </a>
             <a class="navbar-item is-purple has-text-weight-semibold" href="/privacidad/">
               Aviso de privacidad
+            </a>
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/requisitos/">
+              Requisitos
             </a>
             <a class="navbar-item is-purple has-text-weight-semibold" href="/preguntas-frecuentes/">
               Preguntas frecuentes

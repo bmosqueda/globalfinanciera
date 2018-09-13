@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/public/css/privacy.css">
-<section class="hero has-background-blue">
+<section class="hero has-background-purple">
   <div class="hero-body"></div>
   <div class="hero-foot">
     <div class="container">
@@ -45,7 +45,7 @@
           </p>
           <br>
           <p>
-            Todos sus datos personales son tratados de acuerdo a la legislación aplicable y vigente en el país, por ello le informamos que usted tiene en todo momento los derechos de acceder, rectificar, cancelar u oponerse al tratamiento que le damos a sus datos personales; derecho que podrá hacer valer a través del área de privacidad encargada de la seguridad de datos personales en el Teléfono (55) 63144107 Ext. 147, al Teléfono Directo (55) 71319611 o por medio de su correo electrónico: <a href="mailto:financiera.suma@hotmail.com">financiera.suma@hotmail.com</a>.
+            Todos sus datos personales son tratados de acuerdo a la legislación aplicable y vigente en el país, por ello le informamos que usted tiene en todo momento los derechos de acceder, rectificar, cancelar u oponerse al tratamiento que le damos a sus datos personales; derecho que podrá hacer valer a través del área de privacidad encargada de la seguridad de datos personales.<!--  en el Teléfono (55) 63144107 Ext. 147, al Teléfono Directo (55) 71319611 o por medio de su correo electrónico: <a href="mailto:financiera.suma@hotmail.com">financiera.suma@hotmail.com</a>. -->
           </p>
           <br>
           <p>

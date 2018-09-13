@@ -3,5 +3,10 @@ RewriteRule ^preguntas-frecuentes/$ faq.php [L,NC]
 RewriteRule ^nosotros/$ about-us.php [L,NC]
 RewriteRule ^contacto/$ contact.php [L,NC]
 RewriteRule ^servicios/$ services.php [L,NC]
+RewriteRule ^requisitos/$ requirements.php [L,NC]
 RewriteRule ^privacidad/$ aviso-privacidad.php [L,NC]
 Redirect /includes/ /
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

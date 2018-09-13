@@ -30,7 +30,7 @@
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.js"></script>
 <link rel="stylesheet" href="/public/css/privacy.css">
-<section class="hero has-background-blue">
+<section class="hero has-background-purple">
   <div class="hero-body"></div>
   <div class="hero-foot">
     <div class="container">
@@ -85,7 +85,7 @@
                 </div>
               </div>
               <p class="help feed is-danger" style="display: none;" id="feed-message"></p>
-              <button class="button is-dark is-purple is-pulled-right" id="btnSolicitar" onclick="alert('en desarrollo')">Enviar</button>
+              <button class="button is-dark is-purple is-pulled-right" id="btnSolicitar">Enviar</button>
               <!-- <button class="button is-dark is-purple is-pulled-right" id="btnSolicitar">Enviar</button> -->
             </div>
             <div class="column is-4-desktop is-4-tablet is-12-mobile">
@@ -99,13 +99,13 @@
                   <i class="fa fa-phone"></i>
                   <span>&nbsp;TELEFÓNOS</span>
                 </p>
-                <p class="data-color">55 77 39 33 62</p>
+                <p class="data-color">55 25 75 11 42</p>
                 <p class="data-color">55 77 37 08 58</p>
-                <p class="data-color">55 44 97 56 46</p>
+                <p class="data-color">55 77 39 33 62</p>
                 <p class="data-color">55 68 65 37 76</p>
-                <p class="data-color">55 37 61 84 96</p>
+                <p class="data-color">55 68 63 96 99</p>
+                <p class="data-color">55 44 97 56 46</p>
                 <br>
-
                 <p class="title-color">
                   <i class="fa fa-envelope"></i>
                   <span>&nbsp;CORREOS</span>
@@ -126,5 +126,5 @@
   </div>
 </main>
 <?php  require_once(VIEW_PATH.'footer.view.php'); ?>
-<!-- <script src="/public/js/http.js"></script> -->
-<!-- <script src="/public/js/request-form.js"></script> -->
+<script src="/public/js/http.js"></script>
+<script src="/public/js/request-form.js"></script>

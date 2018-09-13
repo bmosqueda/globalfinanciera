@@ -28,7 +28,7 @@
         <div class="navbar-brand">
           <a class="navbar-item" href="/">
             <figure class="logo-mobile image is-32x32 is-pulled-right text-mobile">
-              <img src="/public/images/Logos/transparent-white-ico.png" alt="Sociedad Patrimonial 2018 ©">
+              <img src="/public/images/Logos/transparent-white-ico.png" alt="Patrimonio Social 2018 ©">
             </figure><span class="logo-no-mobile nav-title is-size-5 has-text-weight-semibold">Patrimonio Social</span>
           </a>
           <div class="navbar-burger burger" data-target="navbar">
@@ -51,6 +51,9 @@
             </a>
             <a id="privacy" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/privacidad/">
               Aviso de privacidad
+            </a>
+            <a id="requirements" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/requisitos/">
+              Requisitos
             </a>
             <a id="faq" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/preguntas-frecuentes/">
               Preguntas frecuentes

@@ -42,7 +42,7 @@ function setError(fieldName, error = false) {
       setError('mail', 'Por favor ingresa un correo electrónico');
       return false;
     }
-    else if(!emailRegex.test(email)) {
+    else if(false) {
       setError('mail', 'Por favor ingresa un correo electrónico válido');
       return false;
     }
@@ -75,9 +75,9 @@ $('#btnSolicitar').click(function() {
 
     var req = new XMLHttpRequest();
 
-    req.open('POST', 'http://www.patrimoniosocial.org/send-mail.php', true);
-    req.setRequestHeader("Content-type", 'application/x-www-form-urlencoded');
-    req.setRequestHeader("Access-Control-Allow-Origin", "*");
+    req.open('POST', '/send-mail.php', true);
+    // req.setRequestHeader("Content-type", 'application/x-www-form-urlencoded');
+    // req.setRequestHeader("Access-Control-Allow-Origin", "*");
 
     req.onerror = function() {
       console.error(req.responseText);

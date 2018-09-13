@@ -16,11 +16,19 @@
   .hero-image-text {
     font-size: 3.5rem !important;
   }
+
+  .hero-image-subtitle {
+    font-size: 2rem !important;
+  }
 }
 
 @media (min-width: 1024px) and (max-width: 1088px) {
   .hero-image-text {
     font-size: 3rem !important;
+  }
+
+  .hero-image-subtitle {
+    font-size: 1.5rem !important;
   }
 }
 
@@ -28,11 +36,19 @@
   .hero-image-text {
     font-size: 2rem !important;
   }
+
+  .hero-image-subtitle {
+    font-size: 0.8rem !important;
+  }
 }
 
 @media (max-width:768px) {
   .hero-image-text {
-    font-size: 1.5rem !important;
+    font-size: 1.1rem !important;
+  }
+
+  .hero-image-subtitle {
+    font-size: 0.6rem !important;
   }
  
   .description {
@@ -42,6 +58,7 @@
 
 @media (max-width: 355px) {
   .description {
+    top: 10px;
     bottom: 20%;
   }
 }
