@@ -1,7 +1,15 @@
     <!-- Footer -->
-      <footer class="footer has-background-purple">
+      <style>
+        .left-margin {
+          margin-left: 23px;
+        }
+        .footer-background {
+          background-color: #3f132c;
+        }
+      </style>
+      <footer class="footer footer-background">
         <div class="columns is-multiline">
-          <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 50px;">
+          <div class="column is-3-desktop is-6-tablet is-12-mobile" style="margin-right: 35px;">
             <a class="" href="#">
               <figure class="image is-5by3">
                 <img src="/public/images/Logos/transparent-white.png" alt="Patrimonio social" width="200" height="1000">
@@ -9,7 +17,7 @@
             </a>
             <p class="has-text-light has-text-justified">Somos una sociedad financiera comprometida con nuestros clientes que otorga créditos personales y empresariales inmediatos.</p>
           </div>
-          <div class="column is-2-desktop is-5-tablet is-12-mobile">
+          <div class="column is-2-desktop left-margin is-5-tablet is-12-mobile">
             <p class="footer-title  title is-5 has-text-light">Página</p>
             <ul>
               <li class="pad-bot-li">
@@ -35,7 +43,7 @@
               </li>
             </ul>
           </div>
-          <div class="column is-4-desktop is-7-tablet is-12-mobile">
+          <div class="column is-4-desktop left-margin is-7-tablet is-12-mobile">
             <p class="footer-title title is-5 has-text-light">Contáctanos</p>
             <ul>
               <li>
@@ -50,6 +58,7 @@
                   <span>&nbsp;admin@patrimoniosocial.org</span>
                 </p>
               </li>
+              <br>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
@@ -88,11 +97,11 @@
               </li>
             </ul>
           </div>
-          <!-- <div class="column is-2-desktop is-5-tablet is-12-mobile text-mobile">
+          <div class="column is-2-desktop is-4-tablet is-12-mobile text-mobile">
             <p class="footer-title  title is-5 has-text-light">Siguénos</p>
             <a target="_blank" class="has-text-light">
               <i class="fab fa-facebook" style="font-size: 3em;"></i>
-            </a> -->
+            </a>
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-twitter fa-3x"></i>
             </a> -->
@@ -103,10 +112,10 @@
               <i class="fab fa-linkedin fa-3x"></i>
             </a> -->
             <!-- <p class="footer-title  has-text-light">Sociedad Patrimonial 2018 ©</p> -->
-          <!-- </div> -->
+          </div>
         </div>
       </footer>
-      <div class="has-text-centered has-background-purple" style="margin: 0px;">
+      <div class="has-text-centered footer-background" style="margin: 0px;">
         <p 
           class="footer-title has-text-light" 
           style="font-size: 0.8rem; padding-bottom: 10px;margin: 0px;"
@@ -115,9 +124,6 @@
           class="footer-title has-text-light" 
           style="font-size: 0.8rem; padding-bottom: 10px;margin: 0px;"
         >SOCIEDAD PATROMONIAL 2018 ©</p>
-        <a target="_blank" class="has-text-light">
-          <i class="fab fa-facebook" style="font-size: 3em;"></i>
-        </a>
       </div>
     <!-- Footer Fin --> 
     <!-- Bulma Carousel JS-->

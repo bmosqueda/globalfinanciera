@@ -1,4 +1,12 @@
 <style>
+  .wrapper > img {
+    position: absolute !important;
+    opacity: 0.9;
+    right: -1%;
+    top: 12%;
+    /* height: 268px;
+    width: 256px; */
+  }
 
   @media (min-width: 796px) and (max-width: 1023px) {
     .is-question {
@@ -10,6 +18,12 @@
       margin-bottom: 15px;
       padding-top: 10px;
       padding-bottom: 10px;
+    }
+  }
+
+  @media (max-width: 1023px) {
+    .wrapper > img {
+      display: none;
     }
   }
 
@@ -37,7 +51,7 @@
       padding-bottom: 10px;
       border-bottom: 1px solid #ccd6dd;
     }
-
+    /*
     .hero-body p {
       font-weight: 700 !important;
     }
@@ -45,6 +59,7 @@
     .hero-body {
       padding: 10px 24px;
     }
+    */
 
     header.card-toggle.card-header {
       cursor: pointer
@@ -56,13 +71,14 @@
     }
   }
 </style>
+<!--
 <section class="hero has-background-purple">
   <div class="hero-body">
     <div class="container has-text-white">
       <div class="columns">
         <div class="column is-half">
           <!-- <p class="is-size-1-desktop is-size-2-tablet is-d-mobile is-pulled-left">Preguntas Frecuentes</p> -->
-          <p class="is-size-1-desktop is-size-2-tablet is-size-4-mobile is-pulled-left">Preguntas Frecuentes</p>
+          <!-- <p class="is-size-1-desktop is-size-2-tablet is-size-4-mobile is-pulled-left">Preguntas Frecuentes</p>
         </div>
         <div class="logo column is-half">
           <figure class="image is-128x128 is-pulled-right text-mobile">
@@ -73,7 +89,19 @@
       </div>
     </div>
   </div>
+</section> -->
+<section class="hero has-background-purple">
+  <div class="hero-body"></div>
+  <figure class="wrapper">
+    <img src="/public/images/Logos/transparent-white-ico.png">
+  </figure>
+  <div class="hero-foot">
+    <div class="container">
+      <p class="title-hero is-size-1-desktop is-size-3-tablet is-size-4-mobile has-text-white">Preguntas Frecuentes</p>
+    </div>
+  </div>
 </section>
+<link rel="stylesheet" href="/public/css/privacy.css">
 <main class="section">
   <div class="columns is-centered">
     <div class="column is-2-desktop is-2-tablet is-12-mobile">
