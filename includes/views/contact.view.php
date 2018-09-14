@@ -125,6 +125,21 @@
     </div>
   </div>
 </main>
+<div class="modal" id="modalEnviado">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <!-- <p class="modal-card-title">Sulici</p> -->
+      <button class="delete" aria-label="close" onclick="activeModalEnviado(false)"></button>
+    </header>
+    <section class="modal-card-body">
+      <h1 class="title is-4">Se envió correctamente su información, en breve nos comunicaremos con usted</h1>
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button is-success" onclick="activeModalEnviado(false)">Aceptar</button>
+    </footer>
+  </div>
+</div>
 <?php  require_once(VIEW_PATH.'footer.view.php'); ?>
 <script src="/public/js/http.js"></script>
 <script src="/public/js/request-form.js"></script>

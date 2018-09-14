@@ -83,7 +83,7 @@
           <div class="column is-3-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-user-shield fa-5x"></i>
+                      <i class="fas fa-money-bill-wave fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">
@@ -184,7 +184,7 @@
         <p class="help feed is-danger" style="display: none;" id="feed-message"></p>
       </section>
       <footer class="modal-card-foot">
-        <button class="button is-dark btn-purple is-pulled-right" id="btnSolicitar" onclick="alert('en desarrollo')">Enviar</button>
+        <button class="button is-dark btn-purple is-pulled-right" id="btnSolicitar">Enviar</button>
 
         <!-- <button class="button is-success" id="btnSolicitar">Mandar solicitud</button> -->
         <button class="button" onclick="activeModalFormulario(false)">Cancelar</button>
@@ -199,7 +199,7 @@
         <button class="delete" aria-label="close" onclick="activeModalEnviado(false)"></button>
       </header>
       <section class="modal-card-body">
-        <h1 class="title is-4">Se envió correctamente su solicitud, en un momento uno de nuestros asesores se comunicará con usted</h1>
+        <h1 class="title is-4">Se envió correctamente su información, en breve nos comunicaremos con usted</h1>
       </section>
       <footer class="modal-card-foot">
         <button class="button is-success" onclick="activeModalEnviado(false)">Aceptar</button>
@@ -208,4 +208,5 @@
   </div>
 <!-- Modal section FIN -->
 <?php  require_once(VIEW_PATH.'footer.view.php'); ?>
+<script src="/public/js/http.js"></script>
 <script src="/public/js/request-form.js"></script>

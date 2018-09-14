@@ -96,9 +96,9 @@
                 <i class="fa fa-angle-down"></i>
             </div>
             <div class="message-body collapsable">
-                <div class="board-item">
+                <!-- <div class="board-item">
                     <div class="board-item-content"><span>Solicitud de crédito completa</span></div>
-                </div>
+                </div> -->
                 <div class="board-item">
                     <div class="board-item-content"><span>Identificación oficial vigente</span></div>
                 </div>

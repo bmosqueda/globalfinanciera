@@ -134,6 +134,9 @@
             <a class="navbar-item is-purple has-text-weight-semibold" href="/contacto/">
               Contacto
             </a>
+            <a class="navbar-item is-purple has-text-weight-semibold" href="/acceso/">
+              Acceso
+            </a>
           </div>
         </div>
       </nav>

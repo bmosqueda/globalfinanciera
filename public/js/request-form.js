@@ -25,6 +25,11 @@ function setError(fieldName, error = false) {
     return true;
   }
 
+  function validateEmailRegex(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
+  }
+
   function validatePhone() {
     var name = $('#txt-phone').val().trim();
 
@@ -42,7 +47,7 @@ function setError(fieldName, error = false) {
       setError('mail', 'Por favor ingresa un correo electrónico');
       return false;
     }
-    else if(false) {
+    else if(!validateEmailRegex(email)) {
       setError('mail', 'Por favor ingresa un correo electrónico válido');
       return false;
     }
@@ -56,12 +61,12 @@ function setError(fieldName, error = false) {
 
 $('#btnSolicitar').click(function() {
   if(validateNombre() && validateEmail()) {
-    var formData = new FormData();
-
-    formData.append('name', $('#txt-name').val());
-    formData.append('phone', $('#txt-phone').val());
-    formData.append('email', $('#txt-mail').val());
-    formData.append('message', $('#txt-message').val());
+    var request = {
+      name: $('#txt-name').val(),
+      phone: $('#txt-phone').val(),
+      email: $('#txt-mail').val(),
+      message: $('#txt-message').val()
+    };
 
     $('#txt-name').val('');
     $('#txt-phone').val('');
@@ -71,26 +76,17 @@ $('#btnSolicitar').click(function() {
     $('.feed').hide();
 
     activeModalFormulario(false);
-    activeModalEnviado(true);
 
-    var req = new XMLHttpRequest();
-
-    req.open('POST', '/send-mail.php', true);
-    // req.setRequestHeader("Content-type", 'application/x-www-form-urlencoded');
-    // req.setRequestHeader("Access-Control-Allow-Origin", "*");
-
-    req.onerror = function() {
-      console.error(req.responseText);
-      console.error(req.status);
-    }
-
-    req.onload = function() {
-      console.error(req.responseText);
-      console.error(req.status);      
-    }
-
-    //La función send valida internamente que sea una petición que acepte parámetros, de lo contrario lo setea a null
-    req.send(formData);
+    http.post('/send-mail.php', request, function(error, res, status) {
+      if(error !== undefined) {
+        console.error(error);
+        console.error(status);
+        alert('Hubo un problema al cargar sus datos, por favor inténtelo nuevamente');
+        return;
+      }
+      
+      activeModalEnviado(true);
+    });
   }
 });
 

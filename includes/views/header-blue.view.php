@@ -61,6 +61,9 @@
             <a id="contact" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/contacto/">
               Contacto
             </a>
+            <a id="access" class="navbar-item is-size-5-mobile has-text-weight-bold" href="/acceso/">
+              Acceso
+            </a>
           </div>
         </div>
       </nav>

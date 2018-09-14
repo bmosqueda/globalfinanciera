@@ -5,6 +5,7 @@ RewriteRule ^contacto/$ contact.php [L,NC]
 RewriteRule ^servicios/$ services.php [L,NC]
 RewriteRule ^requisitos/$ requirements.php [L,NC]
 RewriteRule ^privacidad/$ aviso-privacidad.php [L,NC]
+RewriteRule ^acceso/$ access.php [L,NC]
 Redirect /includes/ /
 
 RewriteEngine On
