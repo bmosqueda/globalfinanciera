@@ -60,6 +60,9 @@
 <link rel="stylesheet" href="/public/css/privacy.css">
 <section class="hero has-background-purple">
   <div class="hero-body"></div>
+  <figure class="wrapper">
+    <img src="/public/images/Logos/circle-white.png" style="clip: rect(0px,351px,166px,20px) !important;">
+  </figure>
   <div class="hero-foot">
     <div class="container">
       <p class="title-hero is-size-1-desktop is-size-3-tablet is-size-4-mobile has-text-white">Requisitos</p>

@@ -32,6 +32,9 @@
 <link rel="stylesheet" href="/public/css/privacy.css">
 <section class="hero has-background-purple">
   <div class="hero-body"></div>
+  <figure class="wrapper">
+    <img src="/public/images/Logos/circle-white.png" style="clip: rect(0px,351px,166px,20px) !important;">
+  </figure>
   <div class="hero-foot">
     <div class="container">
       <p class="title-hero is-size-1-desktop is-size-3-tablet is-size-4-mobile has-text-white">Contacto</p>
@@ -99,20 +102,20 @@
                   <i class="fa fa-phone"></i>
                   <span>&nbsp;TELEFÓNOS</span>
                 </p>
-                <p class="data-color">55 25 75 11 42</p>
-                <p class="data-color">55 77 37 08 58</p>
-                <p class="data-color">55 77 39 33 62</p>
                 <p class="data-color">55 68 65 37 76</p>
-                <p class="data-color">55 68 63 96 99</p>
                 <p class="data-color">55 44 97 56 46</p>
+                <p class="data-color">55 68 63 96 99</p>
+                <p class="data-color">55 83 03 92 58</p>
+                <p class="data-color">55 27 95 94 02</p>
+                <p class="data-color">55 30 31 31 04</p>
                 <br>
                 <p class="title-color">
                   <i class="fa fa-envelope"></i>
                   <span>&nbsp;CORREOS</span>
                 </p>
                 <p class="data-color">admin@patrimoniosocial.org</p>
-                <p class="data-color">programaciondecitas@globalfinanciera.com.mx</p>
-                <p class="data-color">atencionaclientes@globalfinanciera.com.mx</p>
+                <!-- <p class="data-color">programaciondecitas@globalfinanciera.com.mx</p> -->
+                <!-- <p class="data-color">atencionaclientes@globalfinanciera.com.mx</p> -->
                 <br>
                 <a href="//www.facebook.com">
                   <i class="fab fa-facebook fa-3x facebook-color"></i>

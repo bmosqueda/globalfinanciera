@@ -42,12 +42,12 @@
           <div class="column is-4-desktop is-7-tablet is-12-mobile">
             <p class="footer-title title is-5 has-text-light">Contáctanos</p>
             <ul>
-              <li>
+              <!-- <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-envelope"></i>
                   <span>&nbsp;atencionaclientes@global.com.mx</span>
                 </p>
-              </li>
+              </li> -->
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-envelope"></i>
@@ -58,37 +58,37 @@
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 25 75 11 42</span>
+                  <span>&nbsp;55 68 65 37 76</span><!-- eli -->
                 </p>
               </li>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 44 97 56 46</span>
+                  <span>&nbsp;55 44 97 56 46</span> <!-- ericka -->
                 </p>
               </li>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 77 37 08 58</span>
+                  <span>&nbsp;55 68 63 96 99</span> <!-- fer -->
                 </p>
               </li>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 77 39 33 62</span>
+                  <span>&nbsp;55 83 03 92 58</span> <!-- Luis ramirez -->
                 </p>
               </li>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 68 65 37 76</span>
+                  <span>&nbsp;55 27 95 94 02</span> <!-- alfredo -->
                 </p>
               </li>
               <li>
                 <p class="has-text-light" href="#">
                   <i class="fa fa-phone"></i>
-                  <span>&nbsp;55 68 63 96 99</span>
+                  <span>&nbsp;55 30 31 31 04</span> <!-- rogelio -->
                 </p>
               </li>
             </ul>
@@ -99,10 +99,10 @@
               <i class="fab fa-facebook" style="font-size: 3em;"></i>
             </a>
             <a target="_blank" class="has-text-light">
-              <i class="fab fa-twitter fa-3x"></i>
+              <i class="fab fa-twitter" style="font-size: 3em;"></i>
             </a>
             <a target="_blank" class="has-text-light">
-              <i class="fab fa-youtube fa-3x"></i>
+              <i class="fab fa-youtube" style="font-size: 3em;"></i>
             </a>
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-linkedin fa-3x"></i>

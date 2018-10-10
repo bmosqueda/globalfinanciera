@@ -6,6 +6,9 @@
   .carousel-title {
     font-size: 1rem !important;
   }
+  body {
+    background: #EFF3F4;
+  }
 </style>
 <link rel="stylesheet" href="/public/css/index.css">
 <!-- Carousel -->
@@ -58,7 +61,6 @@
         </h1>
         <h2 class="subtitle has-text-justified">
           Patrimonio Social es una empresa con más de 19 años de experiencia en el mercado financiero mexicano en el otorgamiento, gestión y asesoría en la adquisición de créditos a personas físicas y morales. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado. Somos una empresa 100% regulada y transparente, su bienestar es nuestra prioridad.
-          
           <!-- Patrimonio social es una empresa consolidada que cuenta con más de 19 años de experiencia otorgando créditos a particulares y empresas. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
           Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad. -->
         </h2>
@@ -69,7 +71,7 @@
       <hr>
       <section class="container">  
         <div class="columns features row is-multiline is-centered">
-          <div class="column is-3-desktop is-6-tablet is-12-mobile col">
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
                       <i class="fas fa-user-shield fa-5x"></i>
@@ -82,7 +84,7 @@
                   </div>
               </div>
           </div>
-          <div class="column is-3-desktop is-6-tablet is-12-mobile col">
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
                       <i class="fas fa-money-bill-wave fa-5x"></i>
@@ -95,10 +97,11 @@
                   </div>
               </div>
           </div>
-          <div class="column is-3-desktop is-6-tablet is-12-mobile col">
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
-                      <i class="fas fa-shipping-fast fa-5x"></i>
+                      <!-- <i class="fas fa-shipping-fast fa-5x"></i> -->
+                      <i class="fas fa-clock fa-5x"></i>
                   </div>
                   <div class="card-content">
                       <div class="content">
@@ -108,7 +111,7 @@
                   </div>
               </div>
           </div>
-          <div class="column is-3-desktop is-6-tablet is-12-mobile col">
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
               <div class="card is-shady text-mobile">
                   <div class="card-image has-text-centered">
                       <i class="fas fa-home fa-5x"></i>
@@ -117,6 +120,32 @@
                       <div class="content">
                           <h4 class="has-text-centered">Liberación de ahorro en subcuenta de vivienda</h4>
                           <p class="has-text-justified">Te ayudamos a liberar el ahorro en tu subcuenta de vivienda.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
+              <div class="card is-shady text-mobile">
+                  <div class="card-image has-text-centered">
+                    <i class="fas fa-hand-holding-usd fa-5x"></i>
+                  </div>
+                  <div class="card-content">
+                      <div class="content">
+                          <h4 class="has-text-centered">Unificación de cuentas</h4>
+                          <p class="has-text-justified">Unifica todas tus deudas en una sola, con una tasa de interés preferencial.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="column is-4-desktop is-6-tablet is-12-mobile col">
+              <div class="card is-shady text-mobile">
+                  <div class="card-image has-text-centered">
+                    <i class="fas fa-car fa-5x"></i>
+                  </div>
+                  <div class="card-content">
+                      <div class="content">
+                          <h4 class="has-text-centered">Créditos automotrices</h4>
+                          <p class="has-text-justified">¡Adquiere tu auto ya! Más fácil y más rápido.</p>
                       </div>
                   </div>
               </div>

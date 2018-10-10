@@ -8,6 +8,9 @@
 <link rel="stylesheet" href="/public/css/index.css">
 <section class="hero has-background-purple">
   <div class="hero-body"></div>
+  <!-- <figure class="wrapper">
+    <img src="/public/images/Logos/circle-white.png" style="clip: rect(0px,351px,166px,20px) !important;">
+  </figure> -->
   <div class="hero-foot">
     <div class="container">
       <p class="title-hero is-size-1-desktop is-size-3-tablet is-size-4-mobile has-text-white">Nosotros</p>
@@ -26,13 +29,13 @@
       <div class="column is-8-desktop is-10-tablet is-12-mobile">
         <div class="content">
           <br>
-          <p class="has-text-justified">Somos una sociedad financiera especializada que otorga créditos personales y empresariales inmediatos, en donde el buró de crédito no es determinante. Contamos con más de 19 años de experiencia brindando siempre la mejor atención a nuestros clientes. Nuestros trabajadores se caracterizan por su vocación de servicio, dinamismo, compromiso con los clientes y con la comunidad en general.  
+          <p class="has-text-justified">Somos una sociedad financiera especializada que otorga créditos personales y empresariales inmediatos, en donde el BURÓ de crédito no es determinante. Contamos con más de 19 años de experiencia brindando siempre la mejor atención a nuestros clientes. Nuestros trabajadores se caracterizan por su vocación de servicio, dinamismo, compromiso con los clientes y con la comunidad en general.  
           </p>
           <p class="has-text-justified">Nuestro crecimiento y expansión están basados en la eficiencia de nuestro equipo laboral, en el entusiasmo y entrega, en la calidad de nuestro trabajo y en la satisfacción de cada cliente, quien es el que finalmente nos ratifica y nos recomienda.</p>
           <h1>Misión</h1>
           <p class="has-text-justified">Brindar asesoría y otorgar préstamos de forma rápida y eficaz a través del servicio especializado de asesores calificados e integración tecnológica para resolver las necesidades de las personas.</p>
           <h1>Visión</h1>
-          <p class="has-text-justified">Ser una institución financiera con opciones de crédito viables para cada uno de nuestros clientes y permitirles a través e ello lograr sus objetivos y/o proyectos económicos logrando la mayor cobertura.</p>
+          <p class="has-text-justified">Ser una institución financiera con opciones de crédito viables para cada uno de nuestros clientes y permitirles a través de ello lograr sus objetivos y proyectos. <!-- Ser una institución financiera con opciones de crédito viables para cada uno de nuestros clientes y permitirles a través e ello lograr sus objetivos y/o proyectos económicos logrando la mayor cobertura. --></p>
           <h1>Valores</h1>
   
           <!-- Values section -->

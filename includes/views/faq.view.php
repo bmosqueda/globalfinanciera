@@ -93,7 +93,7 @@
 <section class="hero has-background-purple">
   <div class="hero-body"></div>
   <figure class="wrapper">
-    <img src="/public/images/Logos/transparent-white-ico.png">
+    <img src="/public/images/Logos/circle-white.png">
   </figure>
   <div class="hero-foot">
     <div class="container">
@@ -135,6 +135,32 @@
           <p>Desde $5,000 hasta $2,000,000 de pesos.</p>
         </div>
       <!-- Collapsible -->
+
+      <!-- Collapsible -->
+        <div class="collapsible card is-fullwidth is-shadowless">
+          <header class="card-toggle card-header is-shadowless">
+            <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">
+              ¿Piden pagos por adelantado?
+            </p>
+            <a class="card-header-icon">
+              <i class="fa fa-angle-down"></i>
+            </a>
+          </header>
+          <div class="card-content is-paddingless is-hidden">
+            <div class="content">
+              Los requisitos varían de acuerdo al tipo de financiamiento que sea otorgado.
+            </div>
+          </div>
+        </div>
+      <!-- /Collapsible -->
+        <div class="question">
+          <p class="has-text-grey has-text-weight-bold is-d-desktop is-size-4-tablet is-size-5-mobile is-question">
+            ¿Piden pagos por adelantado?
+          </p>
+          <p>Los requisitos varían de acuerdo al tipo de financiamiento que sea otorgado.</p>
+        </div>
+      <!-- Collapsible -->
+
         <div class="collapsible card is-fullwidth is-shadowless">
           <header class="card-toggle card-header is-shadowless">
             <p class="card-header-title has-text-grey has-text-weight-normal is-size-5-mobile">

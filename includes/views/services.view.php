@@ -1,3 +1,4 @@
+
 <link rel="stylesheet" href="/public/css/services.css">
 <!-- <section class="hero has-background-blue">
   <div class="hero-body"></div>
@@ -30,13 +31,13 @@
           <h1>Servicios</h1>
           <p>
             En Patrimonio Social otorgamos servicios financieros que se ajustan a sus necesidades. 
-            Nuestro mayor interés es su bienestar y por ello que manejamos tasas de interés competitivas que le permitirán alcanzar sus metas, brindándole préstamos desde 5 mil hasta 2 millones de pesos con plazos flexibles y planes totalmente personalizados. 
+            Nuestro mayor interés es su bienestar y por ello que manejamos tasas de interés competitivas que le permitirán alcanzar sus metas, brindándole préstamos desde 5 mil hasta 3 millones de pesos con plazos flexibles y planes totalmente personalizados. 
           </p>
           <ul>
             <li>Préstamos express (CAT 20% ANUAL)</li>
             <li>Préstamos personales e hipotecarios.  (CAT 23% ANUAL)</li>
-            <li>Créditos empresariales mayores a $150,000.00 (CAT 14% ANUAL)</li>
-            <li>Recuperación de subcuenta de vivienda</li>
+            <li>Créditos empresariales mayores a $200,000.00 (CAT 14% ANUAL)</li>
+            <!-- <li>Recuperación de subcuenta de vivienda</li> -->
             <li>Créditos hipotecarios.</li>
           </ul>
           <p>
