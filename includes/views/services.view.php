@@ -35,7 +35,7 @@
           <ul>
             <li>Préstamos express (CAT 20% ANUAL)</li>
             <li>Préstamos personales e hipotecarios.  (CAT 23% ANUAL)</li>
-            <li>Créditos empresariales mayores a $50,000.00 (CAT 14% ANUAL)</li>
+            <li>Créditos empresariales mayores a $150,000.00 (CAT 14% ANUAL)</li>
             <li>Recuperación de subcuenta de vivienda</li>
             <li>Créditos hipotecarios.</li>
           </ul>

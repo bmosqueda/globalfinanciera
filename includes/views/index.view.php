@@ -57,8 +57,10 @@
           Bienvenido
         </h1>
         <h2 class="subtitle has-text-justified">
-          Patrimonio social es una empresa consolidada que cuenta con más de 19 años de experiencia otorgando créditos a particulares y empresas. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
-          Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad.
+          Patrimonio Social es una empresa con más de 19 años de experiencia en el mercado financiero mexicano en el otorgamiento, gestión y asesoría en la adquisición de créditos a personas físicas y morales. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado. Somos una empresa 100% regulada y transparente, su bienestar es nuestra prioridad.
+          
+          <!-- Patrimonio social es una empresa consolidada que cuenta con más de 19 años de experiencia otorgando créditos a particulares y empresas. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
+          Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad. -->
         </h2>
         <h2 class="subtitle has-text-justified">
           Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad.
@@ -101,7 +103,7 @@
                   <div class="card-content">
                       <div class="content">
                           <h4 class="has-text-centered">Créditos express</h4>
-                          <p class="has-text-justified">Respuesta inmediata en todas las solicitudes</p>
+                          <p class="has-text-justified">En menos de 24 horas, con la mejor tasa de interés.</p>
                       </div>
                   </div>
               </div>
@@ -114,7 +116,7 @@
                   <div class="card-content">
                       <div class="content">
                           <h4 class="has-text-centered">Liberación de ahorro en subcuenta de vivienda</h4>
-                          <p>Te ayudamos a liberar el ahorro en tu subcuenta de vivienda.</p>
+                          <p class="has-text-justified">Te ayudamos a liberar el ahorro en tu subcuenta de vivienda.</p>
                       </div>
                   </div>
               </div>

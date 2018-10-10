@@ -167,6 +167,7 @@
     for (let i = 0; i < toogles.length; i++) {
       toogles[i].addEventListener('click', e => {
         if (window.innerWidth < 769) {
+          e.stopPropagation();
           e.currentTarget.parentElement.childNodes[3].style.display = e.currentTarget.parentElement.childNodes[3].style.display === 'none' ? '' : 'none';
         } 
       });

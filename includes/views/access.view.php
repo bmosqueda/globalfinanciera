@@ -64,24 +64,24 @@
                     <div class="field">
                       <label class="label is-medium">Número de cliente</label>
                       <div class="control">
-                          <input id="txtClient" class="input is-medium" type="text" maxlength="15" placeholder="Número de cliente" autofocus="true">
+                          <input id="txtClient" class="input is-medium" type="text" maxlength="15" placeholder="Número de cliente">
                       </div>
                       <p class="help is-danger" style="display: none;" id="lblClient"></p>
                     </div>
-                    <div class="field">
+                    <!-- <div class="field">
                       <label class="label is-medium">Número de contrato</label>
                       <div class="control">
                           <input id="txtContract" class="input is-medium" type="text" maxlength="15" placeholder="Número de contrato">
                       </div>
                       <p class="help is-danger" style="display: none;" id="lblContract"></p>
-                    </div>
-                    <div class="field">
+                    </div> -->
+                    <!-- <div class="field">
                       <label class="label is-medium">RFC</label>
                       <div class="control">
                           <input id="txtRFC" class="input is-medium" type="text" maxlength="13" placeholder="RFC">
                       </div>
                       <p class="help is-danger" style="display: none;" id="lblRFC"></p>
-                    </div>
+                    </div> -->
                     <div class="field">
                       <label class="label is-medium">Constraseña</label>
                       <div class="control">

@@ -78,13 +78,13 @@ $('#txtRFC').blur(validateRFC);
 $('#txtPassword').blur(validatePassword);
 
 $('#btnEnter').click(function() {
+  // validateNumber('Contract') &&
+    // validateRFC() &&
   if(
     validateNumber('Client') &&
-    validateNumber('Contract') &&
-    validateRFC() &&
     validatePassword()
   ) {
-    setError('*Hubo un problema al buscar la información, intenta más tarde', 'Result');
+    setError('*No se encontró el cliente con el número ' + $('#txtClient').val(), 'Result');
   }
   else
     setError(false, 'Result');

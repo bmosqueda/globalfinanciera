@@ -98,12 +98,12 @@
             <a target="_blank" class="has-text-light">
               <i class="fab fa-facebook" style="font-size: 3em;"></i>
             </a>
-            <!-- <a target="_blank" class="has-text-light">
+            <a target="_blank" class="has-text-light">
               <i class="fab fa-twitter fa-3x"></i>
-            </a> -->
-            <!-- <a target="_blank" class="has-text-light">
-              <i class="fab fa-github fa-3x"></i>
-            </a> -->
+            </a>
+            <a target="_blank" class="has-text-light">
+              <i class="fab fa-youtube fa-3x"></i>
+            </a>
             <!-- <a target="_blank" class="has-text-light">
               <i class="fab fa-linkedin fa-3x"></i>
             </a> -->
