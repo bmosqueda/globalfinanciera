@@ -9,6 +9,12 @@
   body {
     background: #EFF3F4;
   }
+
+  @media (min-width: 1087px) {
+    .video-frame {
+      padding-right: 100px;padding-left: 100px;
+    }
+  }
 </style>
 <link rel="stylesheet" href="/public/css/index.css">
 <!-- Carousel -->
@@ -52,6 +58,7 @@
   </div>     
 <!-- Carousel Fin -->
 
+
 <!-- Cards info -->
   <section class="is-medium">
     <div class="hero-body">
@@ -60,7 +67,7 @@
           Bienvenido
         </h1>
         <h2 class="subtitle has-text-justified">
-          Patrimonio Social es una empresa con más de 19 años de experiencia en el mercado financiero mexicano en el otorgamiento, gestión y asesoría en la adquisición de créditos a personas físicas y morales. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado. Somos una empresa 100% regulada y transparente, su bienestar es nuestra prioridad.
+          Patrimonio Social es una empresa con más de 19 años de experiencia en el mercado financiero mexicano en el otorgamiento, gestión y asesoría en la adquisición de créditos a personas físicas y morales. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
           <!-- Patrimonio social es una empresa consolidada que cuenta con más de 19 años de experiencia otorgando créditos a particulares y empresas. Nos hemos destacado por ofrecer siempre la mejor atención a nuestros clientes y ser una de más mejores alternativas financieras del mercado.
           Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad. -->
         </h2>
@@ -68,6 +75,14 @@
           Somos una empresa 100% regulada dedicada al otorgamiento de créditos, su satisfacción es nuestra prioridad.
         </h2>
       </div>
+      <hr>
+      <br>
+      <section style="height: 500;">
+      <!-- Youtube video -->
+        <iframe width="100%" class="video-frame" height="500" src="https://www.youtube.com/embed/RMZCogCCfM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- Youtube video FIN -->
+      </section>
+      <br>
       <hr>
       <section class="container">  
         <div class="columns features row is-multiline is-centered">

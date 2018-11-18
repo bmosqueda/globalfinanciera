@@ -101,7 +101,7 @@
             <a target="_blank" class="has-text-light">
               <i class="fab fa-twitter" style="font-size: 3em;"></i>
             </a>
-            <a target="_blank" class="has-text-light">
+            <a target="_blank" href="https://www.youtube.com/watch?v=RMZCogCCfM0" class="has-text-light">
               <i class="fab fa-youtube" style="font-size: 3em;"></i>
             </a>
             <!-- <a target="_blank" class="has-text-light">

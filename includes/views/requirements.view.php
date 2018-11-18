@@ -183,7 +183,8 @@
     }
   });
 
-  window.addEventListener('resize', function () {
+  window.addEventListener('resize', function (event) {
+    event.stopPropagation();
     for (let i = 0; i < collapsables.length; i++) {
       if (window.innerWidth < 769) {
         collapsables[i].style.display = 'none';
