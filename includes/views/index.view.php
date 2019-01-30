@@ -84,6 +84,15 @@
       </section>
       <br>
       <hr>
+      <br>
+      <section style="height: 500;">
+      <!-- Youtube video -->
+        <iframe width="100%" class="video-frame" height="500" src="https://www.youtube.com/embed/nGDqvZr_lU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- Youtube video FIN -->
+      </section>
+      <br>
+      <hr>
+      
       <section class="container">  
         <div class="columns features row is-multiline is-centered">
           <div class="column is-4-desktop is-6-tablet is-12-mobile col">
